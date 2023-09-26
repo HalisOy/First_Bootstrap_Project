@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    font-family: sans-serif;
+}
+h1{
+    color: #053B50;
+    font-size: 50px;
+}
+h2{
+    color: #64CCC5;
+    font-size: 35px;
+}
+h3{
+    color: #4ca4c2;
+}
+h4{
+    color: #176B87;
+}
+h5{
+    color: #176B87;
+}
+ol{
+    list-style-position: inside;
+}
+.ProductImage{
+    width: 350px;
+    height: 250px;
+    object-fit: contain;
+}
+li{
+    margin-bottom: 50px;
+}
+section{
+    margin-top: 10px;
+    text-align: center;
+}
